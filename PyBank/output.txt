@@ -1,0 +1,3 @@
+The number of months : 86
+The net total of profit and loss : 38382578
+The average change in profit/losses : -2315.12
